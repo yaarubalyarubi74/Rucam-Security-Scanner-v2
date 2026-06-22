@@ -1,0 +1,21 @@
+============================================================
+  RUKAMCO LLC — NETWORK VULNERABILITY SCAN REPORT
+  Cybersecurity Project · MEC 2025
+============================================================
+
+Scan Date  : 2026-06-16  21:59:17
+Target     : 192.168.56.1
+Port Range : 1-1024
+Open Ports : 5
+
+HOST: 192.168.56.1  [UP]
+  Protocol: TCP
+    Port    135: open        msrpc
+    Port    137: filtered    netbios-ns
+    Port    139: open        netbios-ssn
+    Port    445: open        microsoft-ds
+    Port    903: open        vmware-auth
+    Port    913: open        vmware-auth
+
+============================================================
+Report generated automatically by RUKAMCO Scanner
